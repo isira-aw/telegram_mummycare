@@ -1,0 +1,8 @@
+python-dotenv
+pinecone
+semantic-router
+groq
+deep-translator
+python-telegram-bot
+nest-asyncio
+emoji
